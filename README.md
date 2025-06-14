@@ -1,3 +1,3 @@
 # GITDEMO
 <br>
-Author: Neha V M
+Author: Neha V M(RIT)
